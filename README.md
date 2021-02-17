@@ -3,4 +3,4 @@
 ## This is new text from local
 ### Please push this to github ASAP
 
-`CSC105 is funny :D`
+`CSC105 is not funny :D`
